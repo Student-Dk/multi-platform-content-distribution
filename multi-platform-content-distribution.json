@@ -13,20 +13,15 @@
               "fieldOptions": {
                 "values": [
                   {
-                    "option": "Global Trend"
+                    "option": "KGF"
                   },
                   {
-                    "option": "Google"
+                    "option": "GGG"
                   },
                   {
-                    "option": "Microsoft"
-                  },
-                  {
-                    "option": "Amazon"
-                  },
-                  {
-                    "option": "ApnaTrend"
+                    "option": "PKP"
                   }
+                  
                 ]
               }
             },
